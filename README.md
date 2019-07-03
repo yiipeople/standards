@@ -1,5 +1,8 @@
 # standards
+
 Standards for extensions maintained by yiipeople
+
+Yiipeople is a non-official organization of Yii developers.
 
 ---
 
